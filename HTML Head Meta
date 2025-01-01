@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="keywords" content="HTML, CSS, learning">
+        <meta name="description" content="I'm Learning HTML again...">
+        <meta name="author" content="Himal Erangana">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--This MFing line keeps the page width as same as the device width-->
+        <meta http-equiv="refresh" content="45"> <!--This one is Super Cool... It Refreshes website every 45 seconds-->
+        <base href="https://linktr.ee/HimalErangana" target="_blank"> <!--The <base> element specifies the base URL and/or target for all relative URLs in a page-->
+        <link>
+    </head>
+</html>
